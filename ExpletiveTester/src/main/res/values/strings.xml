@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Expletive Mask Tester App</string>
+    <string name="amanda">I love you Amanda!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="progMessage">Applying Censor Masking...</string>
+    <string-array name="Ratings">
+        <item>G</item>
+        <item>PG</item>
+        <item>PG-13</item>
+        <item>R</item>
+        <item>NC-17</item>
+        <item>X</item>
+        <item>XX</item>
+        <item>XXX</item>
+    </string-array>
+</resources>
