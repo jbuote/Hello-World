@@ -80,7 +80,7 @@ public class MyActivity extends AppCompatActivity {
         if (editText != null) {
             editText.setText(message);
         } else {
-            editText.setText("messge was NULL");
+            editText.setText("Error! - messge was NULL");
         }
     }
 
